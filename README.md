@@ -30,6 +30,7 @@ Here are some of the things I've been creating while learning and experimenting:
 - **Dynamic Radar Chart with Real-Time Data (Vue.js, TypeScript)** - 3 Jan
 
 **🛠  Languages and tools:**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
