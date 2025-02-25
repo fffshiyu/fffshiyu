@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm **jenniefofofo**  
-A passionate Vue.js developer and UI designer from China  
-Currently diving deep into Vue.js, TypeScript, and Radar Chart development.
+A passionate UI designer & creative developer from China.
+Currently diving deep into vfx, webgl
 
 👋 **Let’s connect**  
  [Email](#fangmeixu36@gmail.com)
