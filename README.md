@@ -24,7 +24,7 @@ Currently diving deep into vfx, webgl
 👋 **Let’s connect**  
 
 - <a href="https://www.instagram.com/jenniefofofo/" target="blank">Instagram</a>
-- <a href="https://dribbble.com/jenniefofo" target="blank">dribbble</a>
+- <a href="https://mouse-hover-effects.vercel.app/" target="blank">dribbble</a>
 
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
