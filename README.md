@@ -30,7 +30,8 @@ Currently diving deep into vfx, webgl
 Here are some of the things I've been creating while learning and experimenting:
 
 ## 2024
-- **Crane Positioning System (Vue.js, WebSocket)** - 10 Feb  
+- **Crane Positioning System (Vue.js, WebSocket)** - 10 Feb
+- <a href="https://dribbble.com/jenniefofo" target="blank">**Mouse Hover Effect**</a> -26th Feb
 - **Dynamic Radar Chart with Real-Time Data (Vue.js, TypeScript)** - 3 Jan
 
 **🛠  Languages and tools:**
