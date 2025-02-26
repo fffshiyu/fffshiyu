@@ -42,10 +42,10 @@ Here are some of the things I've been creating while learning and experimenting:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/Blender-FF3366?style=flat-square&logo=blender&logoColor=white)
-![VFX](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white)
-![C4D](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Sketchup](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+![VFX](https://img.shields.io/badge/VFX%20-49021F?style=flat-square&logo=VFX&logoColor=white)
+![C4D](https://img.shields.io/badge/cinima%204d-%2331A8FF.svg?style=flat-square&logo=adobe%204d&logoColor=white)
+![Sketchup](https://img.shields.io/badge/Sketchup%20-31A8FF.svg?style=flat-square&logo=sketchup%20&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
-![CAD](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+
 
 
