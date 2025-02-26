@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 Hi, I'm **jenniefofofo**  
 A passionate UI designer & creative developer from China.
 Currently diving deep into vfx, webgl
+🔭 I’m currently working on visualization website
+🌱 I’m currently learning webgl,vue,solidity 
 
 👋 **Let’s connect**  
  [Email](#fangmeixu36@gmail.com)
+ [ins]@jenniefofofo
 
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
