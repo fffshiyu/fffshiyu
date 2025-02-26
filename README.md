@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm **jenniefofofo**  
-A passionate UI designer & creative developer from China.
+A passionate creative developer &3D lover  & UI designer  from China.
 Currently diving deep into vfx, webgl
 🔭 I’m currently working on visualization website
 🌱 I’m currently learning webgl,vue,solidity 
