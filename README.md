@@ -23,8 +23,7 @@ Currently diving deep into vfx, webgl
 
 👋 **Let’s connect**  
 
- [insta](#https://www.instagram.com/jenniefofofo/)
- [Email](#fangmeixu36@gmail.com)
+- <a href="https://www.instagram.com/jenniefofofo/" target="blank">LinkedIn</a>
 
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
