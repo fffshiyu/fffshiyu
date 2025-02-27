@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 Hi, I'm **jenniefofofo**  
 A passionate creative developer &3D lover  & UI designer  from China.
 Currently diving deep into vfx, webgl
+
 🔭 I’m currently working on visualization website
-🌱 I’m currently learning webgl,vue,solidity 
+
+🌱 I’m currently learning webgl,vue,solidity..
 
 👋 **Let’s connect**  
 
@@ -31,8 +33,8 @@ Here are some of the things I've been creating while learning and experimenting:
 
 ## 2024
 - **Crane Positioning System (Vue.js, WebSocket)** - 10 Feb
-- <a href="https://mouse-hover-effects.vercel.app/" target="blank">**Mouse Hover Effect**</a> -26 Feb
-- <a href="https://13-3-dt-ext-omega.vercel.app/" target="blank">**3DText**</a> - 15 Feb
+- <a href="https://mouse-hover-effects.vercel.app/" target="blank">**Mouse Hover Effect**</a> 
+- <a href="https://13-3-dt-ext-omega.vercel.app/" target="blank">**3DText**</a> 
   
 ## 2023
 - <a href="http://keepspot.net/Park3D/model.html?id=sh009" target="blank">**IkeaParkinglotSystem**</a>
