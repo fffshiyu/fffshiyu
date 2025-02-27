@@ -24,14 +24,14 @@ Currently diving deep into vfx, webgl
 👋 **Let’s connect**  
 
 - <a href="https://www.instagram.com/jenniefofofo/" target="blank">Instagram</a>
-- <a href="https://mouse-hover-effects.vercel.app/" target="blank">dribbble</a>
+- <a href="https://dribbble.com/jenniefofo" target="blank">dribbble</a>
 
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
 
 ## 2024
 - **Crane Positioning System (Vue.js, WebSocket)** - 10 Feb
-- <a href="https://dribbble.com/jenniefofo" target="blank">**Mouse Hover Effect**</a> -26th Feb
+- <a href="https://mouse-hover-effects.vercel.app/" target="blank">**Mouse Hover Effect**</a> -26th Feb
 - **Dynamic Radar Chart with Real-Time Data (Vue.js, TypeScript)** - 3 Jan
 
 **🛠  Languages and tools:**
