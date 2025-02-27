@@ -32,7 +32,7 @@ Here are some of the things I've been creating while learning and experimenting:
 ## 2024
 - **Crane Positioning System (Vue.js, WebSocket)** - 10 Feb
 - <a href="https://mouse-hover-effects.vercel.app/" target="blank">**Mouse Hover Effect**</a> -26 Feb
-- <a href=" https://13-3-dt-ext-omega.vercel.app/" target="blank">**Dynamic 3D text **</a> - 15 Feb
+- <a href=" https://13-3-dt-ext-omega.vercel.app/" target="blank">**3DText**</a> - 15 Feb
 
 **🛠  Languages and tools:**
 
