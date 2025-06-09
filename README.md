@@ -43,6 +43,7 @@ Here are some of the things I've been creating while learning and experimenting:
 - <a href="https://mouse-hover-effects.vercel.app/" target="blank">**Let's go party -Mouse Hover Effect**</a> 
 - <a href="https://13-3-dt-ext-omega.vercel.app/" target="blank">**For my best friend -3DText**</a>
 - <a href="https://21-scroll-base-animation.vercel.app/" target="blank">**Scroll 3d web demo**</a>
+- <a href="https://38-importing-and-optimizing-the-scene-wine.vercel.app/" target="blank">**3D from blender demo **</a>
   
 ## 2023
 - <a href="http://keepspot.net/Park3D/model.html?id=sh009" target="blank">**IkeaParkinglotSystem**</a>
