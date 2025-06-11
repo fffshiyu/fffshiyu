@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hi, I'm **jenniefofofo**  
 A passionate creative developer &3D lover  & UI designer  from China.
-Currently diving deep into vfx, webgl,react
+Currently diving deep into vfx, webgl
 
 🔭 I’m currently working on visualization website
 
-🌱 I’m currently learning webgl,vue,solidity..
+🌱 I’m currently learning webgl,vue,solidity,react
 
 👋 **Let’s connect**  
 
