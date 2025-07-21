@@ -25,8 +25,8 @@ Currently diving deep into vfx, webgl
 
 👋 **Let’s connect**  
 
-- <a href="https://www.instagram.com/jenniefofofo/" target="blank">Instagram</a>
 - <a href="https://dribbble.com/jenniefofo" target="blank">dribbble</a>
+- <a> fangmeixu36@gmail.com</a>
 
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
