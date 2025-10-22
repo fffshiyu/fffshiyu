@@ -33,7 +33,7 @@ Here are some of the things I've been creating while learning and experimenting:
 
 ## 2025
 
-- <a href="https://hover-on-pic.vercel.app" target="blank">**Hover 3D effect**</a>
+- <a href="https://old-home-new.cn/" target="blank">**official website for old-home-new**</a>
 - <a href="https://cidea.cn/" target="blank">**3D Gallery**</a>
 - <a href="https://solar-system-weld-nine.vercel.app/" target="blank">**Solar System**</a>
 - <a href="https://clipperdesign-fffshiyu-fffshiyus-projects.vercel.app/" target="blank">**3d Product Cliperdesign**</a>
