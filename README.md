@@ -32,7 +32,7 @@ Currently diving deep into vfx, webgl
 Here are some of the things I've been creating while learning and experimenting:
 
 ## 2025
-
+- <a href="https://fffshiyu.github.io/Flashcard/" target="blank">**Flashcard page for mytome.com**</a>
 - <a href="https://old-home-new.cn/" target="blank">**Official website for old-home-new**</a>
 - <a href="https://cidea.cn/" target="blank">**3D Gallery**</a>
 - <a href="https://solar-system-weld-nine.vercel.app/" target="blank">**Solar System**</a>
