@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="432" height="21" alt="image" src="https://github.com/user-attachments/assets/9229ec45-a578-48f4-8e31-e7ebea5a1649" />## Hi there 👋
 
 <!--
 **fffshiyu/fffshiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,13 +33,13 @@ Here are some of the things I've been creating while learning and experimenting:
 
 ## 2025
 - <a href="https://fffshiyu.github.io/Power-StationMonitor" target="blank">**Power Station Monitor Demo-Englishversion**</a>
-- <a href="https://fffshiyu.github.io/Flashcard/" target="blank">**Flashcard page for mytome.com**</a>
-- <a href="https://old-home-new.cn/" target="blank">**Official website for old-home-new**</a>
+- <a href="https://fffshiyu.github.io/Flashcard/" target="blank">**3D Animation Flashcard Page for mytome.com**</a>
+- <a href="https://old-home-new.cn/" target="blank">**Chinese Version of the Official Website for German company Old-Home-New**</a>
 - <a href="https://cidea.cn/" target="blank">**3D Gallery**</a>
 - <a href="https://solar-system-weld-nine.vercel.app/" target="blank">**Solar System**</a>
 - <a href="https://clipperdesign-fffshiyu-fffshiyus-projects.vercel.app/" target="blank">**3d Product Cliperdesign**</a>
 - <a href="https://fffshiyu.github.io/CraneNew/" target="blank">**Web Render Showcase-Demo**</a>
-- <a href="https://fofobooth.cc/" target="blank">**Free onlion Photobooth**</a>
+- <a href="https://fofobooth.cc/" target="blank">**Free onlion Photobooth(more than 2 million visits)**</a>
 - <a href="https://hbd-eva.vercel.app/" target="blank">**HBD card for friend eva**</a> 
 - <a href="https://my-3d-model-viewer.vercel.app/" target="blank">**3d Factory demo**</a>
 
