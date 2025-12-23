@@ -7,7 +7,7 @@ Currently diving deep into vfx, webgl
 
 🔭 I’m currently working on visualization website
 
-🌱 I’m currently learning webgl,vue,solidity,react
+🌱 I’m currently learning solidity,smart contract.
 
 👋 **Let’s connect**  
 
