@@ -17,7 +17,7 @@ Currently diving deep into vfx, webgl
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
 ## 2026
-- <a href="https://axonlab-zeta.vercel.app/home" target="blank">**Official Website for Axon**</a>
+- <a href="https://axonlab-zeta.vercel.app/" target="blank">**Official Website for Axon**</a>
 - <a href="https://fofo-unit-converter.vercel.app/" target="blank">**Unit Converter Tool**</a>
 - <a href= "https://geobiz.vercel.app/" target="blank">**Find Biz Location**</a>
 
