@@ -17,7 +17,8 @@ Currently diving deep into vfx, webgl
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
 ## 2026
-- <a href="https://fofo-unit-converter.vercel.app/" target="blank">**unit-converter tool**</a>
+- <a href="https://fofo-unit-converter.vercel.app/" target="blank">**Unit Converter Tool**</a>
+- <a href= "https://geobiz.vercel.app/" target="blank">**Find Biz Location**</a>
 
 ## 2025
 - <a href="https://my-app-wheat-iota-66.vercel.app/" target="blank">**Onchain Wallet Kit**</a>
