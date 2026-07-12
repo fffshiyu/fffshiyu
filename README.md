@@ -17,7 +17,7 @@ Currently diving deep into vfx, webgl
 🎨 **Playground**  
 Here are some of the things I've been creating while learning and experimenting:
 ## 2026
-- <a href="https://new-3d-profile.vercel.app/" target="blank">**3D Profile new**</a>
+- <a href="https://claude-test-rho.vercel.app/" target="blank">**3D Profile new**</a>
 - <a href="https://fofohub.cc/" target="blank">**Fofohub ----kpop data collection**</a>
 - <a href="https://clickytricky.com/" target="blank">**AI Logo Generator**</a>
 - <a href="https://axonlab-zeta.vercel.app/" target="blank">**Official Website for Axon -3D product**</a>
