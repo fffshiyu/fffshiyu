@@ -1,13 +1,12 @@
 ## Hi there 👋
 
+I'm Jennie 
 
-Hi, I'm **jenniefofofo**  
-A passionate creative developer &3D lover  & UI designer  from China.
-Currently diving deep into vfx, webgl
+Full-stack developer with 7+ years of experience building web products and real-time 3D applications.
 
-🔭 I’m currently working on visualization website
-
-🌱 I’m currently learning solidity,smart contract.
+🔭 Independent developer, building full-stack and AI-assisted web products
+🌱 Currently exploring LLM integration, OCR pipelines
+🛠 TypeScript · React · Next.js · Vue 3 · PostgreSQL · Cloudflare · Three.js
 
 👋 **Let’s connect**  
 
