@@ -10,7 +10,9 @@ Full-stack developer with 7+ years of experience building web products and real-
 
 👋 **Let’s connect**  
 
-- <a href="https://dribbble.com/jenniefofo" target="blank">dribbble</a>
+- <a href="https://jenniefofo.vercel.app/" target="blank">Portfolio</a>
+- <a href="https://www.linkedin.com/in/jenniefofo/" target="blank">LinkedIn</a>
+- <a href="https://dribbble.com/jenniefofo" target="blank">Dribbble</a>
 - <a> fangmeixu36@gmail.com</a>
 
 🎨 **Playground**  
@@ -18,25 +20,22 @@ Here are some of the things I've been creating while learning and experimenting:
 ## 2026
 
 - <a href="https://pocket-tennis.vercel.app/" target="blank">**Pocket-tennis App**</a>
-- <a href="https://fofobooth.cc/" target="blank">**Onlion Photobooth**</a>
-- <a href="https://claude-test-rho.vercel.app/" target="blank">**3D Profile new**</a>
-- <a href="https://fofohub.cc/" target="blank">**Fofohub ----kpop data collection**</a>
+- <a href="https://jenniefofo.vercel.app/" target="blank">**Portfolio -3D website**</a>
+- <a href="https://fofohub.cc/" target="blank">**Fofohub -K-pop data platform**</a>
 - <a href="https://clickytricky.com/" target="blank">**AI Logo Generator**</a>
 - <a href="https://axonlab-zeta.vercel.app/" target="blank">**Official Website for Axon -3D product**</a>
-- <a href="https://fofo-unit-converter.vercel.app/" target="blank">**Unit Converter Tool**</a>
 - <a href= "https://geobiz.vercel.app/" target="blank">**Find Biz Location**</a>
 
 ## 2025
 - <a href="https://my-app-wheat-iota-66.vercel.app/" target="blank">**Onchain Wallet Kit**</a>
 - <a href="https://fffshiyu.github.io/Power-StationMonitor" target="blank">**Power Station Monitor Demo-Englishversion**</a>
-- <a href="https://3d-map-demo.vercel.app/" target="blank">**3D Map Demo**</a>
 - <a href="https://fffshiyu.github.io/Flashcard/" target="blank">**3D Animation Flashcard Page for mytome.com**</a>
 - <a href="https://old-home-new.cn/" target="blank">**Chinese Version of the Official Website for German company Old-Home-New**</a>
 - <a href="https://cidea.cn/" target="blank">**3D Gallery**</a>
 - <a href="https://solar-system-weld-nine.vercel.app/" target="blank">**Solar System**</a>
-- <a href="https://clipperdesign-fffshiyu-fffshiyus-projects.vercel.app/" target="blank">**3d Product Cliperdesign**</a>
+- <a href="https://clipperdesign-fffshiyu-fffshiyus-projects.vercel.app/" target="blank">**3D Product Clipper Design**</a>
 - <a href="https://fffshiyu.github.io/CraneNew/" target="blank">**Web Render Showcase-Demo**</a>
-- <a href="https://fofobooth.cc/" target="blank">**Free onlion Photobooth(more than 2 million visits)**</a>
+- <a href="https://fofobooth.cc/" target="blank">**Fofobooth -online photo booth (2M+ visits)**</a>
 - <a href="https://hbd-eva.vercel.app/" target="blank">**HBD card for friend eva**</a> 
 - <a href="https://my-3d-model-viewer.vercel.app/" target="blank">**3d Factory demo**</a>
 
@@ -49,15 +48,21 @@ Here are some of the things I've been creating while learning and experimenting:
 - <a href="https://26-code-sructuring.vercel.app/" target="blank">**3D with animation demo**</a>
   
 ## 2023
-- <a href="http://keepspot.net/Park3D/model.html?id=sh009" target="blank">**IkeaParkinglotSystem**</a>
-- <a href="http://keepspot.net/" target="blank">**KeepspotOffcialWebsite**</a>
-- <a href="https://www.simpuretech.com/" target="blank">**SimpureOffcialWebsite**</a>
+- <a href="http://keepspot.net/Park3D/model.html?id=sh009" target="blank">**IKEA Parking Lot System**</a>
+- <a href="http://keepspot.net/" target="blank">**Keepspot Official Website**</a>
+- <a href="https://www.simpuretech.com/" target="blank">**Simpure Official Website**</a>
 
 
 **🛠  Languages and tools:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
